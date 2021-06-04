@@ -1,8 +1,8 @@
 {
-  "token": "Your bot token",
+  "token": "NTAwMjM2MjY4ODkwNzUwOTc2.W8BnVA.r3_akTqUc44p86qnLabeXP9HEQc",
   "mongouri": "Mongodb uri",
-  "prefix": "Your prefix",
-  "ownerIds": ["Owner's USER IDs", "Like this", "can be as many"],
+  "prefix": "-",
+  "ownerIds": ["412223538292981763"],
   "website": {
     "enabled": false,
     "ip": "Website IP",
